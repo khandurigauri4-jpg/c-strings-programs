@@ -84,22 +84,6 @@ Prepare for college exams and technical interviews
 
 
 
-🚀 Future Improvements
-
-
-Add comments and explanations to each program
-
-
-Add time and space complexity notes
-
-
-Extend programs using functions
-
-
-Include advanced string problems
-
-
-
 👩‍💻 Author
 Gauri Khanduri
 B.Tech Computer Science Engineering
